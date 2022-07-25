@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sell">Продать</string>
+    <string name="quantity">Количество акций:</string>
+    <string name="quantity_req">Количество акций<font color="#FF0000">*</font></string>
+    <string name="item_name_req">Название элемента <font color="#FF0000">*</font></string>
+    <string name="item_price_req">Цена элемента <font color="#FF0000">*</font></string>
+    <string name="save_action">Сохранить</string>
+    <string name="item_detail_fragment_title">Подробности элемента</string>
+    <string name="add_fragment_title">Добавить элемент</string>
+    <string name="edit_fragment_title">Редактировать элемент</string>
+    <string name="price">Цена</string>
+    <string name="quantity_in_stock">Количество акций</string>
+    <string name="item">Элемент</string>
+    <string name="delete">Удалить</string>
+    <string name="delete_question">Вы уверены, что хотите удалить?</string>
+    <string name="no">Нет</string>
+    <string name="yes">Да</string>
+    <string name="edit_item">Редактировать элемент</string>
+    <string name="add_new_item">Добавить новый элемент</string>
+</resources>
